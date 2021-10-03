@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
+
+<a href="https://github.com/kajal233/NewAssignment">This is my github link</a>
+
+</body>
+</html>
+
